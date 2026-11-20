@@ -1,2 +1,19 @@
-# Bomb-Run
-Arkadaşımla birlikte kurduğumuz bağımsız oyun girişimi KBE Games kapsamında geliştirdiğimiz ilk oyunumuz Bomb Run, Mayıs 2026 itibarıyla oyuncularla buluşmuştur.  Oyunumuz daha önce yayınlanmış ve kullanıcıların erişimine açılmış olsa da bu repository aracılığıyla projeyi GitHub'a ilk kez ekliyorum. 
+KBE Games | Bomb Run
+
+KBE Games olarak bağımsız oyun geliştirme yolculuğumuza ilk oyunumuz Bomb Run ile başladık.
+
+Arkadaşımla birlikte kurduğumuz bu oyun girişimi kapsamında geliştirdiğimiz Bomb Run, Mayıs 2026 itibarıyla Google Play'de oyuncuların erişimine açılmıştır.
+
+🎮 Oyunu Keşfet
+
+Bomb Run – Google Play'de Hemen Oyna
+
+📁 Repository Hakkında
+
+Bu repository, Bomb Run oyununun proje dosyalarını, kaynak kodlarını ve geliştirme sürecine ait içerikleri barındırmaktadır.
+
+🚀 KBE Games
+
+Bağımsız oyun geliştirme alanında yeni projeler üretmeyi ve oyun severlere farklı deneyimler sunmayı hedefliyoruz.
+
+KBE Games – Play, Create, Innovate!
